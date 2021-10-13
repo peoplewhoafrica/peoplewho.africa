@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "peoplewhoafrica.netlify.app"
+  to = "peoplewho.africa"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
   from = "/"
   to = "https://peoplewhoafrica.notion.site/PeopleWho-4d3ba5946fb34199bde43408cd052aae"
   status = 200
